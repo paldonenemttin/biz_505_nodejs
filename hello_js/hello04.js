@@ -29,5 +29,6 @@ for (let i = 0; i < 배열2.length; i++) {
 }
 console.log(배열3);
 
+// Es6+에서 등장한 배열 관련 함수들 중에 한가지
 let 배열짝수 = 배열2.filter((요소) => 요소 % 2 == 0);
 console.log(배열짝수);
